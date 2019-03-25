@@ -1,0 +1,13 @@
+{
+  "name": "@denverhjs/foo",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "ng build foo",
+    "test": "ng test foo --watch false"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "@denverhjs/core": "^0.0.1"
+  }
+}

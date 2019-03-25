@@ -1,0 +1,12 @@
+{
+  "name": "@denverhjs/core",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "ng build core",
+    "test": "ng test core --watch false"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  }
+}

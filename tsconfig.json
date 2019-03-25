@@ -17,6 +17,32 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "core": [
+        "dist/core"
+      ],
+      "core/*": [
+        "dist/core/*"
+      ],
+      "foo": [
+        "dist/foo"
+      ],
+      "foo/*": [
+        "dist/foo/*"
+      ],
+      "baz": [
+        "dist/baz"
+      ],
+      "baz/*": [
+        "dist/baz/*"
+      ],
+      "bat": [
+        "dist/bat"
+      ],
+      "bat/*": [
+        "dist/bat/*"
+      ]
+    }
   }
 }
