@@ -19,28 +19,28 @@
       "dom"
     ],
     "paths": {
-      "core": [
+      "@denverhjs/core": [
         "dist/core"
       ],
-      "core/*": [
+      "@denverhjs/core/*": [
         "dist/core/*"
       ],
-      "foo": [
+      "@denverhjs/foo": [
         "dist/foo"
       ],
-      "foo/*": [
+      "@denverhjs/foo/*": [
         "dist/foo/*"
       ],
-      "baz": [
+      "@denverhjs/baz": [
         "dist/baz"
       ],
-      "baz/*": [
+      "@denverhjs/baz/*": [
         "dist/baz/*"
       ],
-      "bat": [
+      "@denverhjs/bat": [
         "dist/bat"
       ],
-      "bat/*": [
+      "@denverhjs/bat/*": [
         "dist/bat/*"
       ]
     }
