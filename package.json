@@ -42,7 +42,7 @@
     "karma-jasmine": "1.1.2",
     "karma-jasmine-html-reporter": "0.2.2",
     "lerna": "3.20.2",
-    "ng-packagr": "4.7.1",
+    "ng-packagr": "9.0.3",
     "protractor": "5.4.2",
     "ts-node": "7.0.1",
     "tsickle": "0.34.3",
