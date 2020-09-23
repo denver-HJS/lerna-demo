@@ -20,11 +20,11 @@
     },
     {
       "packagePatterns": [ "karma" ],
-      "groupName": "node"
+      "groupName": "karma"
     },
     {
       "packagePatterns": [ "jasmine" ],
-      "groupName": "node"
+      "groupName": "jasmine"
     }
   ]
 }
