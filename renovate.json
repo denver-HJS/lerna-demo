@@ -17,6 +17,14 @@
     {
       "packagePatterns": [ "node" ],
       "groupName": "node"
+    },
+    {
+      "packagePatterns": [ "karma" ],
+      "groupName": "node"
+    },
+    {
+      "packagePatterns": [ "jasmine" ],
+      "groupName": "node"
     }
   ]
 }
