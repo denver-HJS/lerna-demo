@@ -4,9 +4,7 @@
   "prConcurrentLimit": 6,
   "timezone": "America/Los_Angeles",
   "schedule": [
-    "after 10pm every weekday",
-    "before 5am every weekday",
-    "every weekend"
+    "every 3 months on the first day of the month"
   ],
   "packageRules": [
     {
